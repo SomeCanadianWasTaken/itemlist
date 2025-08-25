@@ -3,7 +3,7 @@ title: "Canadian's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list 
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/SomeCanadianWasTaken.github.io.git' # the subpath of your site, e.g. /blog
 url:  'https://github.com/SomeCanadianWasTaken'  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'SomeCanadianWasTaken'
