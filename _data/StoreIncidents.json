@@ -2,13 +2,8 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -19,11 +14,6 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -37,7 +27,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -77,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -116,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -134,11 +119,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -196,11 +176,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -208,11 +183,6 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +272,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -327,12 +297,12 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1400,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 40000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,12 +312,12 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +327,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,7 +342,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,7 +352,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +367,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -436,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 82
 }
