@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "Canadian's Purchase List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: A custom version of Toolkit's item list 
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'sirrandoo'
+github_username: 'SomeCanadianWasTaken'
 
 # Item list settings
 #
@@ -59,13 +59,13 @@ commands:
   # Whether or not the command list will display the command's uage.
   usage: true
   # Whether or not the command list will display the mod that added it.
-  mod: true
+  mod: false
 
 mods:
   # Whether or not the mod list will display the mod's version.
-  version: true
+  version: false
   # Whether or not the mod list will display the mod's author(s).
-  author: true
+  author: false
 
 # Build settings
 theme: type-on-strap
